@@ -1,0 +1,2 @@
+Running setup before each test
+appUrl : "https://freelance-learn-automation.vercel.app/login"

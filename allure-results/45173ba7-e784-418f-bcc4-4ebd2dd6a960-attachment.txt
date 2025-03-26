@@ -1,0 +1,4 @@
+Running setup before each test
+1
+Retrieved data from Json for email : admin@email.com
+Retrieved data from Json for password : admin@123

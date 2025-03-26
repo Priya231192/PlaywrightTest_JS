@@ -1,0 +1,23 @@
+[
+    {
+      "JiraID": 567,
+      "username": "user567",
+      "password": "password567",
+      "address": {
+        "area": "Downtown",
+        "pincode": "123456",
+        "street": "123 Main Street"
+      }
+    },
+    
+    {
+      "JiraID": 800,
+      "username": "user800",
+      "password": "password800",
+      "address": {
+        "area": "Uptown",
+        "pincode": "654321",
+        "street": "456 High Avenue"
+      }
+    }
+  ]

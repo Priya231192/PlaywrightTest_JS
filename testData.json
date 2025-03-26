@@ -1,0 +1,12 @@
+{
+    "username": "priya@test.com.au",
+    "password": "test",
+    "address": {
+        "street": "123 main road",
+        "city": "Adelaide"
+    },
+    "phone": ["123","456","567"],
+    
+"comment": "Root Object: The entire structure is a single object that contains three properties: username, password, and address. Nested Object (address): The address property itself is an object that has two properties: street and city. This is an example of nested objects in JSON."
+
+}
