@@ -50,7 +50,7 @@ retries: 2,
         screenshot : "on",
         video : "on",
         trace :"on",
-        headless: false, 
+        headless: true, 
       },
     },
 
