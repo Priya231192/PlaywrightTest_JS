@@ -1,6 +1,14 @@
 trigger:
 - main
 
+schedules:
+  - cron: "*/5 * * * *"  # This cron expression will trigger every 5 minutes
+    displayName: "Every 5 minutes"
+    branches:
+      include:
+        - main
+    always: true
+
 pool:
   vmImage: ubuntu-latest
 
