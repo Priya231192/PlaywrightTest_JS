@@ -1,5 +1,5 @@
-trigger:
-- main
+# trigger:
+# - main
 
 # schedules:
 #   - cron: "*/5 * * * *"  # This cron expression will trigger every 5 minutes
